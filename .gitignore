@@ -29,3 +29,5 @@ tools/journey.js
 tools/lakdiva.js
 tools/paya.js
 tools/unmasked.js
+# HyperFrames film project (work in progress, not used by the site yet)
+film/
