@@ -1,0 +1,125 @@
+{
+  "_how_to_edit": "Each row is one price, rule or number shown on the site. To update one: change 'value' (and 'note' if needed), set 'checked' to today's date as YEAR-MONTH-DAY, and save. Leave 'id' alone. 'kind' is 'official' when read on the official page, 'secondary' when read on a travel guide.",
+  "facts": [
+    {
+      "id": "visa.eta",
+      "label": "Tourist visa (ETA)",
+      "value": "Free for 30 days for nationals of 40 listed countries",
+      "note": "In force from 25 May 2026. Everyone still has to apply online before arrival. Double entry is allowed within the 30 days.",
+      "source": "Department of Immigration and Emigration",
+      "url": "https://eta.gov.lk/slvisa/visainfo/center.jsp?locale=en_US",
+      "kind": "official",
+      "checked": "2026-10-05"
+    },
+    {
+      "id": "visa.fee",
+      "label": "ETA fee, other nationalities",
+      "value": "About US$50 online, US$60 on arrival",
+      "note": "Reported by travel guides. The official page confirms a fee applies but the amount was not shown when checked.",
+      "source": "Lanka Guide",
+      "url": "https://www.lankaguide.lk/guides/sri-lanka-visa",
+      "kind": "secondary",
+      "checked": "2026-10-05"
+    },
+    {
+      "id": "sigiriya.fee",
+      "label": "Entry, foreign adult",
+      "value": "US$35",
+      "note": "Includes the site museum. Children 6 to 12: US$20. SAARC nationals: US$20.",
+      "source": "Lamb on the Rhodes, Sigiriya guide 2026",
+      "url": "https://lambontherhodes.com/sigiriya-travel-guide/",
+      "kind": "secondary",
+      "checked": "2026-10-05"
+    },
+    {
+      "id": "anuradhapura.fee",
+      "label": "Entry, foreign adult",
+      "value": "US$30",
+      "note": "One ticket covers the main archaeological zones. Some temples ask a separate donation.",
+      "source": "Hopscotch Travels fee guide",
+      "url": "https://hopscotchtravels.com/entrance-fees-for-sri-lankas-top-attractions-2026-guide/",
+      "kind": "secondary",
+      "checked": "2025-09-23"
+    },
+    {
+      "id": "polonnaruwa.fee",
+      "label": "Entry, foreign adult",
+      "value": "US$30",
+      "note": "Buy the ticket at the Archaeological Museum before entering the site.",
+      "source": "Hopscotch Travels fee guide",
+      "url": "https://hopscotchtravels.com/entrance-fees-for-sri-lankas-top-attractions-2026-guide/",
+      "kind": "secondary",
+      "checked": "2025-09-23"
+    },
+    {
+      "id": "dambulla.fee",
+      "label": "Entry, foreign adult",
+      "value": "US$6",
+      "note": "Buy the ticket at the foot of the rock before you climb.",
+      "source": "Hopscotch Travels fee guide",
+      "url": "https://hopscotchtravels.com/entrance-fees-for-sri-lankas-top-attractions-2026-guide/",
+      "kind": "secondary",
+      "checked": "2025-09-23"
+    },
+    {
+      "id": "kandy.fee",
+      "label": "Entry, foreign adult",
+      "value": "LKR 2,000",
+      "note": "Temple of the Sacred Tooth Relic.",
+      "source": "Hopscotch Travels fee guide",
+      "url": "https://hopscotchtravels.com/entrance-fees-for-sri-lankas-top-attractions-2026-guide/",
+      "kind": "secondary",
+      "checked": "2025-09-23"
+    },
+    {
+      "id": "horton.fee",
+      "label": "Entry, foreign adult",
+      "value": "US$41 to US$75",
+      "note": "The total depends on group size, vehicle fee and taxes.",
+      "source": "Hopscotch Travels fee guide",
+      "url": "https://hopscotchtravels.com/entrance-fees-for-sri-lankas-top-attractions-2026-guide/",
+      "kind": "secondary",
+      "checked": "2025-09-23"
+    },
+    {
+      "id": "yala.fee",
+      "label": "Park entry, foreign adult",
+      "value": "About US$25",
+      "note": "Jeep hire, service charge and tax are extra and usually cost more than the ticket.",
+      "source": "Hopscotch Travels fee guide",
+      "url": "https://hopscotchtravels.com/entrance-fees-for-sri-lankas-top-attractions-2026-guide/",
+      "kind": "secondary",
+      "checked": "2025-09-23"
+    },
+    {
+      "id": "sos.police",
+      "label": "Police emergency",
+      "value": "119",
+      "note": "",
+      "source": "Sri Lanka Tourism, emergency services",
+      "url": "https://www.srilanka.travel/emergency-services",
+      "kind": "secondary",
+      "checked": "2026-10-05"
+    },
+    {
+      "id": "sos.ambulance",
+      "label": "Ambulance (Suwa Seriya, free)",
+      "value": "1990",
+      "note": "",
+      "source": "Sri Lanka Tourism, emergency services",
+      "url": "https://www.srilanka.travel/emergency-services",
+      "kind": "secondary",
+      "checked": "2026-10-05"
+    },
+    {
+      "id": "sos.tourist",
+      "label": "Tourist police",
+      "value": "1912",
+      "note": "",
+      "source": "Sri Lanka Tourism, emergency services",
+      "url": "https://www.srilanka.travel/emergency-services",
+      "kind": "secondary",
+      "checked": "2026-10-05"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+# Inspiration images are other artists' work: never publish them
+reference/
+.claude/
+node_modules/
+process/
+# Older rejected designs: kept on this computer only, not published
+archive/
+v1/
+draft/
+preview/
+lab/
+concepts/
+/assets/
+/data/
+/places/
+/index.html
+/about.html
+/plan.html
+/routes.html
+/roots.html
+/404.html
+/robots.txt
+/.nojekyll
+tools/art.js
+tools/build.js
+tools/draft.js
+tools/home.js
+tools/journey.js
+tools/lakdiva.js
+tools/paya.js
+tools/unmasked.js
